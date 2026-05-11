@@ -311,7 +311,7 @@ Are these three genres significantly different in the perception of their dancea
 
     ![Facetgrid](images/facetgrid.png)
 
-In general, for clustering, you can use scatterplots to show clusters of data, so mastering this type of visualization is very useful. In the next lesson, we will take this filtered data and use k-means clustering to discover groups in this data that see to overlap in interesting ways.
+In general, for clustering, you can use scatterplots to show clusters of data, so mastering this type of visualization is very useful. In the next lesson, we will take this filtered data and use k-means clustering to discover groups in this data that seem to overlap in interesting ways.
 
 ---
 
